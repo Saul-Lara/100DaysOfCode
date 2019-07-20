@@ -9,3 +9,11 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
  - Remembered CSS and HTML Basics.
 
 ***Link to work:***  [***Click Here***](https://github.com/Saul-Lara/To-Do-List-App)
+
+### Day 2: July 20, 2019
+***Today's Focus:*** Updating Html & Css of the app. Javascript Added.
+
+***Details***:
+ - Learned some JS basics.
+
+***Link to work:***  [***Click Here***](https://github.com/Saul-Lara/To-Do-List-App)
