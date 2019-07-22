@@ -30,3 +30,15 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
  - Added some tags.
 
 ***Link to work:***  [***Click Here***](https://github.com/Saul-Lara/To-Do-List-App)
+
+----
+
+### Day 4: July 22, 2019
+***Today's Focus:*** Updating Html & Css. Function addItem added.
+
+***Details***:
+ - Learned how create HTML elements dynamically using JS.
+ - Created function that allow add items in list.
+ - Fixed up details with CSS.
+
+***Link to work:***  [***Click Here***](https://github.com/Saul-Lara/To-Do-List-App)
