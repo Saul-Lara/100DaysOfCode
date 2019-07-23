@@ -42,3 +42,14 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
  - Fixed up details with CSS.
 
 ***Link to work:***  [***Click Here***](https://github.com/Saul-Lara/To-Do-List-App)
+
+----
+
+### Day 5: July 23, 2019
+***Today's Focus:*** Updating Javascript scripts. Function removeItem added.
+
+***Details***:
+ - Learned how obtain HTML elements using JS.
+ - Created function that allow remove items of list.
+
+***Link to work:***  [***Click Here***](https://github.com/Saul-Lara/To-Do-List-App)
