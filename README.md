@@ -53,3 +53,15 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
  - Created function that allow remove items of list.
 
 ***Link to work:***  [***Click Here***](https://github.com/Saul-Lara/To-Do-List-App)
+
+----
+
+### Day 6: July 24, 2019
+***Today's Focus:*** Updating Javascript scripts and CSS file. Function completeItem added.
+
+***Details***:
+ - learned some new tags of Css, like :not, :empty, etc.
+ - Created function that allow add items to completed list or re-add to the to do list.
+ - I'm almost done this application.
+
+***Link to work:***  [***Click Here***](https://github.com/Saul-Lara/To-Do-List-App)
