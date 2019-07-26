@@ -65,3 +65,15 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
  - I'm almost done this application.
 
 ***Link to work:***  [***Click Here***](https://github.com/Saul-Lara/To-Do-List-App)
+
+----
+
+### Day 7: July 25, 2019
+***Today's Focus:*** Updating Javascript scripts and CSS file. Function dataUpdated added.
+
+***Details***:
+ - Learned to use localStorage.
+ - Remembered the arrays in JS.
+ - I have finished this application.
+
+***Link to work:***  [***Click here to see the project***](https://saul-lara.github.io/To-Do-List-App/)
