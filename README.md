@@ -85,3 +85,17 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
 
 ***Details***:
  - I'm remembering python basics.
+
+----
+
+### Day 9: July 27, 2019
+***Today's Focus:*** Python basics. Creating Weather App using an api.
+
+***Details***:
+ - Learned how use some libraries.
+ - Learned make web request with python.
+ - I have finished this application.
+
+***Link to work:***  [***Click heret***](https://github.com/Saul-Lara/Weather-app)
+
+----
