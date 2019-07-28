@@ -77,3 +77,11 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
  - I have finished this application.
 
 ***Link to work:***  [***Click here to see the project***](https://saul-lara.github.io/To-Do-List-App/)
+
+----
+
+### Day 8: July 26, 2019
+***Today's Focus:*** I started install python.
+
+***Details***:
+ - I'm remembering python basics.
