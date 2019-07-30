@@ -96,6 +96,14 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
  - Learned make web request with python.
  - I have finished this application.
 
-***Link to work:***  [***Click heret***](https://github.com/Saul-Lara/Weather-app)
+***Link to work:***  [***Click here***](https://github.com/Saul-Lara/Weather-app)
+
+----
+
+### Day 10: July 28, 2019
+***Today's Focus:*** Django basics.
+
+***Details***:
+ - Learned some informacion about this framework.
 
 ----
