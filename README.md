@@ -107,3 +107,15 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
  - Learned some informacion about this framework.
 
 ----
+
+### Day 11: July 29, 2019
+***Today's Focus:*** Django basics.
+
+***Details***:
+ - Learned some informacion about this framework.
+ - Learned how use templates
+
+***Link to work:***  [***Click here***](https://github.com/Saul-Lara/Weather-App-Django)
+
+----
+
