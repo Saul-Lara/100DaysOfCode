@@ -123,9 +123,21 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
 ***Today's Focus:*** Django basics. Learn models
 
 ***Details***:
- - Learned some informacion about models and migrations
- - Learned how use templates with for.
+ - Learned some information about models and migrations.
+ - Learned how use templates.
 
 ***Link to work:***  [***Click here***](https://github.com/Saul-Lara/Weather-App-Django)
 
 ----
+
+### Day 13: July 31, 2019
+***Today's Focus:*** Learned make forms
+
+***Details***:
+ - Learned how use forms with html.
+ - Learned how use requests methods (Post).
+
+***Link to work:***  [***Click here***](https://github.com/Saul-Lara/Weather-App-Django)
+
+----
+
