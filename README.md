@@ -120,7 +120,7 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
 ----
 
 ### Day 12: July 30, 2019
-***Today's Focus:*** Django basics. Learn models
+***Today's Focus:*** Django basics. Learn models.
 
 ***Details***:
  - Learned some information about models and migrations.
@@ -131,7 +131,7 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
 ----
 
 ### Day 13: July 31, 2019
-***Today's Focus:*** Learned make forms
+***Today's Focus:*** Learned make forms.
 
 ***Details***:
  - Learned how use forms with html.
@@ -141,3 +141,13 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
 
 ----
 
+### Day 14: August 1, 2019
+***Today's Focus:*** Modify css.
+
+***Details***:
+ - Added boostrap css.
+ - I have finished this application.
+
+***Link to work:***  [***Click here***](https://github.com/Saul-Lara/Weather-App-Django)
+
+----
