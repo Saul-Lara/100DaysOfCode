@@ -151,3 +151,14 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
 ***Link to work:***  [***Click here***](https://github.com/Saul-Lara/Weather-App-Django)
 
 ----
+
+### Day 15: August 2, 2019
+***Today's Focus:*** I've started to create another project with Django.
+
+***Details***:
+ - Added new models.
+ - Modified settings django.
+
+***Link to work:***  [***Click here***](https://github.com/Saul-Lara/Blog_Python)
+
+----
