@@ -162,3 +162,25 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
 ***Link to work:***  [***Click here***](https://github.com/Saul-Lara/Blog_Python)
 
 ----
+
+### Day 16: August 3, 2019
+***Today's Focus:*** I'm learning use and configure pythonanywhere.
+
+***Details***:
+ - I created an account in pythonanywhere.com.
+ - I deployed this site on the internet.
+
+***Link to work:***  [***Click here***](https://github.com/Saul-Lara/Blog_Python)
+
+----
+
+### Day 17: August 4, 2019
+***Today's Focus:*** I added new template in the site.
+
+***Details***:
+ - Modified urls.py to redirect to the corresponding page.
+ - Modified views.py to render templates.
+
+***Link to work:***  [***Click here***](https://github.com/Saul-Lara/Blog_Python)
+
+----
