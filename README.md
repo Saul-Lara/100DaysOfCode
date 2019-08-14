@@ -184,3 +184,14 @@ I'll code minimum 1 hour every day. In order to learn more in the area of web de
 ***Link to work:***  [***Click here***](https://github.com/Saul-Lara/Blog_Python)
 
 ----
+
+### Day 18: August 5, 2019
+***Today's Focus:*** I added data in db and show information in the template.
+
+***Details***:
+ - Modified post_list.html to show the information.
+ - Modified views.py to render templates.
+
+***Link to work:***  [***Click here***](https://github.com/Saul-Lara/Blog_Python)
+
+----
